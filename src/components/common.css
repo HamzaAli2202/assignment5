@@ -1,0 +1,38 @@
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-left: 50px;
+}
+
+.sub {
+    width: 80%;
+    border: 3px inset red;
+    background-color: lightsalmon;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 50px;
+
+
+
+
+}
+
+.main {
+    border: 5px solid green;
+    background-color: khaki;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 300px;
+
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+}
